@@ -1,0 +1,12 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "task": "Update node version"
+    },
+    {
+      "id": 2,
+      "Task": "Buy groceries"
+    }
+  ]
+}
